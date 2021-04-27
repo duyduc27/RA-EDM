@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-Updated name to EDMs
-=======
-I don't want to have the image anymore!!!
->>>>>>> origin/Duc-temporary
+Incoming EDMs to be updated:
+- RA EDM Viewing Appointment
+- RA EDM Price Alert Confirmation
+- RA EDM New Model Alert
